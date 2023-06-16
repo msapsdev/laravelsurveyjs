@@ -14,7 +14,7 @@
         "Laravel", "LaravelSurveyJs", "surveyjs", "survey manager", "laravel survey", "survey editor", "surveyjs builder", "aidynmakhataev"
     ],
     "require": {
-	    "illuminate/support": "^8",
+	    "illuminate/support": "^10",
 	    "cviebrock/eloquent-sluggable": "^8.0"
 	},
 	"require-dev": {
